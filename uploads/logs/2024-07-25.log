@@ -1,0 +1,1 @@
+[25-Jul-2024 19:23:47 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/buildit/appai.dev/app/models/User.php on line 74
